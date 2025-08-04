@@ -106,3 +106,20 @@ __________
 ________
 25 DAN-T224 040208-002 2000 Dangri & Ramsar Jaisalmer 13-03-2013 
 ____________
+PRIOR HISTORY
+
+The project ensures the prevention of double counting through the following measures:
+ It is uniquely identified by its geographic coordinates, a dedicated commissioning
+certificate, and a specific grid connection point.
+ Exclusive energy meters are installed and linked directly to the project activit’s consumption
+points.
+
+Out of the total 50 MW bundled capacity, 24 MW located in Jaisalmer district, Rajasthan, was
+initially considered for registration under the Clean Development Mechanism (CDM) (LINK: https://cdm.unfccc.int/Projects/Validation/DB/XMD6WXCXLV04Q5YZYWC1SVJZEZBD1W/view.html). 
+
+However, the project proponent did not proceed with CDM registration, and the project remains unregistered
+under CDM. The project activity is seeking verification exclusively under UCR and has not sought
+registration under any other GHG program, except CDM, which was not pursued. No validations,
+verifications, or issuances have occurred, ensuring no risk of double-counting of COUs. 
+
+
